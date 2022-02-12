@@ -1,0 +1,4 @@
+redis-data
+app/env
+app/static_cdn/*
+app/media_cdn/*
